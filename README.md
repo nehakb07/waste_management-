@@ -13,4 +13,4 @@ Supports seven classes: cardboard, compost, glass, metal, paper, plastic, and tr
 ![Screenshot 2024-12-23 210415](https://github.com/user-attachments/assets/6107d5f9-0fd4-42ba-b6da-76305c703cae)
 
 ## Attribution
-This project uses components from [Repository Name]([https://github.com/username/repository](https://github.com/deepak2233/Waste-or-Garbage-Classification-Using-Deep-Learning/tree/main)), licensed under [License Type].
+This project uses components from [Waste-or-Garbage-Classification-Using-Deep-Learning](https://github.com/deepak2233/Waste-or-Garbage-Classification-Using-Deep-Learning/tree/main](https://github.com/deepak2233/Waste-or-Garbage-Classification-Using-Deep-Learning)), licensed under [License Type].
